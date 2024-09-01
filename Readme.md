@@ -6,7 +6,7 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Name:** TheBlockHeads
 
-**Team Leader:** [@USERNAME](https://github.com/kushagrakiyawat)
+**Team Leader:** [@kushagrakiyawat](https://github.com/kushagrakiyawat)
 
 **Team Members:**
 
