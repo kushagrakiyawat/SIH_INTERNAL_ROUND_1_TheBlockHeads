@@ -21,7 +21,7 @@ This README provides an overview of the project, including team details, relevan
 
 - **Internal Presentation:** [Internal Presentation](https://github.com/kushagrakiyawat/SIH_INTERNAL_ROUND_1_TheBlockHeads/blob/main/files/Internal_PPT_TheBlockHeads.pdf)
 - **Final SIH Presentation:** [Final SIH Presentation](https://github.com/kushagrakiyawat/SIH_INTERNAL_ROUND_1_TheBlockHeads/blob/main/files/SIH_PPT_TheBlockHeads.pdf)
-- **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
-- **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
+- **Video Demonstration:** [Watch Video](https://youtu.be/WZzuw8UQSXw)
+- **Live Deployment:** [View Deployment](https://sih-round1.vercel.app/)
 - **Source Code:** [GitHub Repository](https://github.com/kushagrakiyawat/SIH_INTERNAL_ROUND_1_TheBlockHeads/tree/main/code)
 
