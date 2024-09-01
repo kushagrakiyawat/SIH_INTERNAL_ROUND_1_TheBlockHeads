@@ -10,12 +10,12 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Members:**
 
-- **MEMBER_1** - ROLL_NUMBER - [@kushagrakiyawat](https://github.com/kushagrakiyawat)
-- **MEMBER_2** - ROLL_NUMBER - [@kakasuarez](https://github.com/kakasuarez)
-- **MEMBER_3** - ROLL_NUMBER - [@VAMPxLOVE](https://github.com/VAMPxLOVE)
-- **MEMBER_4** - ROLL_NUMBER - [@Anshuman1303](https://github.com/Anshuman1303)
-- **MEMBER_5** - ROLL_NUMBER - [@VivekanandRai](https://github.com/VivekanandRai)
-- **MEMBER_6** - ROLL_NUMBER - [@aryyalohiya](https://github.com/aryyalohiya)
+- **Kushagra Kiyawat** - 2023UCB6008 - [@kushagrakiyawat](https://github.com/kushagrakiyawat)
+- **Vatsal Veerwal** - 2023UCCB6055 - [@kakasuarez](https://github.com/kakasuarez)
+- **Love Kumar** - 2023UCB6017 - [@VAMPxLOVE](https://github.com/VAMPxLOVE)
+- **Anshuman Garg** - 2023UCB6010 - [@Anshuman1303](https://github.com/Anshuman1303)
+- **Vivekanand Rai** - 2023UCB6018 - [@VivekanandRai](https://github.com/VivekanandRai)
+- **Aryya Lohiya** - 2023UCB8061 - [@aryyalohiya](https://github.com/aryyalohiya)
 
 ## Project Links
 
