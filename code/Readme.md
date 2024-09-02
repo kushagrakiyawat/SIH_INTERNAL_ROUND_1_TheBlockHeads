@@ -14,7 +14,7 @@ This project leverages the following technologies:
 
 - **Responsive Mobile UI/UX:** .
 - **Offline Functionality:** We have made the app such that the data syncs with the local storage while you fill out an invoice.
-- **Invoice Management: ** Ability to handle multiple line items, taxes, with a smooth UI/UX transition was added.
+- **Invoice Management**: Ability to handle multiple line items, taxes, with a smooth UI/UX transition was added.
 
 ## Local Setup Instructions (Write for both windows and macos)
 
