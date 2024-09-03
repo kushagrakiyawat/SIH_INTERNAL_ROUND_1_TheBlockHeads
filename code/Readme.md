@@ -26,7 +26,7 @@ Follow these steps to run the project locally
    cd SIH_INTERNAL_ROUND_1_TheBlockHeads
    cd code
    ```
-2. Setup a firebase project and add the firebase configuration in the ```.env``` file in the format given in the ```.env.example```
+2. Setup a firebase project and add the firebase configuration in the `.env` file in the format given in the `.env.example`
 3. **To run the project:**
    ```bash
    npm install
